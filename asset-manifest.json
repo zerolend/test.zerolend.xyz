@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4254ec09.css",
-    "main.js": "/static/js/main.3531006f.js",
+    "main.js": "/static/js/main.b0c647e6.js",
     "static/js/787.d80bfe17.chunk.js": "/static/js/787.d80bfe17.chunk.js",
     "static/media/pyth.svg": "/static/media/pyth.b3774397cf52e9d5238ba1af06e6efcc.svg",
     "static/media/deep-waves.png": "/static/media/deep-waves.92555f9fe9a48dcd3577.png",
@@ -13,24 +13,15 @@
     "static/media/halborn.svg": "/static/media/halborn.6c4a1fb2becfba25b4e61b6049c84316.svg",
     "static/media/manuds-security.svg": "/static/media/manuds-security.5b45189c31e2d87779768f5527f3071e.svg",
     "static/media/stakestone.png": "/static/media/stakestone.ffa3953f2ed3c4828185.png",
-    "static/media/ethernity.png": "/static/media/ethernity.d4335dcb5555dfbbc75d.png",
-    "static/media/woodStock.png": "/static/media/woodStock.9304eddc7dfe68d2357a.png",
     "static/media/transformCapital.png": "/static/media/transformCapital.6ee98163f93c6e15c1a5.png",
-    "static/media/viaBTCCapital.png": "/static/media/viaBTCCapital.eba782ef887731add39c.png",
-    "static/media/founderHeads.png": "/static/media/founderHeads.d012669b6b447840ba13.png",
     "static/media/Manta.png": "/static/media/Manta.6b411bc06c6152b78ef4.png",
     "static/media/blockchainFounders.png": "/static/media/blockchainFounders.415ff36d4203eb17ed3a.png",
-    "static/media/goldenTree.png": "/static/media/goldenTree.4b659da73081c42e2e72.png",
     "static/media/bisonFund.png": "/static/media/bisonFund.1fa7ab41e3bfb128770e.png",
-    "static/media/iba.png": "/static/media/iba.e0c7d011cfe1eef029a2.png",
     "static/media/zero-3d-right.png": "/static/media/zero-3d-right.f9c21bc347138539c0b3.png",
     "static/media/gelato.svg": "/static/media/gelato.db89c622444a457ff41384f9805ce1ed.svg",
-    "static/media/iangels.png": "/static/media/iangels.b8911610d73b41e54342.png",
     "static/media/zero-3d-left.png": "/static/media/zero-3d-left.67abb917d4ef25fbec77.png",
-    "static/media/boxMining.png": "/static/media/boxMining.76d9afbdc1e21f75de9c.png",
     "static/media/mo-tube-1.png": "/static/media/mo-tube-1.d59fb6921f31baa04c11.png",
     "static/media/era.svg": "/static/media/era.fcc2a14d8124b1b4ecd0b77856068eb0.svg",
-    "static/media/ozaru.png": "/static/media/ozaru.1c4d0075b278d642323f.png",
     "static/media/Mundussecurity.svg": "/static/media/Mundussecurity.ab6962529da4e5bc8f91ba6c481e4048.svg",
     "static/media/spearbit.png": "/static/media/spearbit.35c185a3c50592d444a0.png",
     "static/media/Velocore.svg": "/static/media/Velocore.a768ab30dbccad959ea0354b7868eba0.svg",
@@ -44,11 +35,11 @@
     "static/media/Liquity.svg": "/static/media/Liquity.6c63a29dcbcee681c3d5431245813010.svg",
     "index.html": "/index.html",
     "main.4254ec09.css.map": "/static/css/main.4254ec09.css.map",
-    "main.3531006f.js.map": "/static/js/main.3531006f.js.map",
+    "main.b0c647e6.js.map": "/static/js/main.b0c647e6.js.map",
     "787.d80bfe17.chunk.js.map": "/static/js/787.d80bfe17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4254ec09.css",
-    "static/js/main.3531006f.js"
+    "static/js/main.b0c647e6.js"
   ]
 }
